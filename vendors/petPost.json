@@ -1,0 +1,18 @@
+{
+    "id": 31,
+    "category": {
+        "id": 30,
+        "name": "dog"
+    },
+    "name": "Guga",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 3,
+            "name": "castrado"
+        }
+    ],
+    "status": "available"
+}

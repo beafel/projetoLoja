@@ -1,0 +1,10 @@
+{
+    "id": 101010,
+    "username": "Bea",
+    "firstName": "Beatriz",
+    "lastName": "Ruela",
+    "email": "bea@petnet.com",
+    "password": "123456",
+    "phone": "3112345678",
+    "userStatus": 0
+}
